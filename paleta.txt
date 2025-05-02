@@ -1,0 +1,5 @@
+#ffffff blanco
+#5e9188 verde
+#3e5954 verde oscuro
+#253342 azul oscuro
+#232226 negro
